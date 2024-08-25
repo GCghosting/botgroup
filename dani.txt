@@ -1,0 +1,40 @@
+
+DIGI APN/BOOSTER:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@api.useinsider.com:80?path=%2Fvless-ntls&security=none&encryption=none&host=dynkl1.xcdn.store&type=ws#DYNMYTRIAL-DGAPN
+
+UMO FUNZ PLAN:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@172.66.45.39:80?path=%2Fvless-ntls&security=none&encryption=none&host=moba.mobilelegends.com.dynkl1.xcdn.store&type=ws#DYNMYTRIAL-UMOFUNZ
+
+YES ALL PLAN:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@104.17.112.188:80?path=%2Fvless-ntls&security=none&encryption=none&host=cdn.who.int.dynkl1.xcdn.store&type=ws#DYNMYTRIAL-YESALLPLAN
+
+SEDUT PUBG:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@dynkl1.xcdn.store:80?path=%2Fvless-ntls&security=none&encryption=none&host=www.pubgmobile.com&type=ws#DYNMYTRIAL-GAMEPUBG
+
+SEDUT ML:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@dynkl1.xcdn.store:80?path=%2Fvless-ntls&security=none&encryption=none&host=moba.mobilelegends.com&type=ws#DYNMYTRIAL-GAMEML
+
+UNIFI WOW 5G:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@104.17.147.22:80?path=%2Fvless-ntls&security=none&encryption=none&host=opensignal.com.dynkl1.xcdn.store&type=ws#DYNMYTRIAL-UNIFIWOW5G
+
+CELCOM 0 BASIC:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@104.17.147.22:80?path=%2Fvless-ntls&security=none&encryption=none&host=opensignal.com.dynkl1.xcdn.store&type=ws#DYNMYTRIAL-CEL0BASIC
+
+ALL SIM BYPASS SPEED:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@104.17.147.22:80?path=%2Fvless-ntls&security=none&encryption=none&host=opensignal.com.dynkl1.xcdn.store&type=ws#DYNMYTRIAL-ALLBOOST
+
+MAXIS FREEZE/BYPASS:-
+
+vless://abfa5fd9-6ed0-4310-9372-49590b054a2b@ookla.com:443?path=%2Fvless-tls&security=tls&encryption=none&host=dynkl1.global.ssl.fastly.net&type=ws&sni=ookla.com#DYNMYTRIAL-MAXIS2B
+
+NOTA: fast.com blocked
+sila test speed fireprobe.net/en
+atau speedtest.net
